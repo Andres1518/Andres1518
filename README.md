@@ -8,5 +8,3 @@ Por otro lado, tambien me gusta todo el tema de computadores y servidores de man
 3. Reparar
 
 Me especializo en instalación de sistemas operativos, manejo **Linux**, **IOS** y **Windows**. Eso por el lado de los computadores convencionales, y en servidores manejo **Ubuntu Server** con **Linux**.
-
-mjk
